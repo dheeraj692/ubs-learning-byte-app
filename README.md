@@ -1,6 +1,10 @@
-# MyApp
+# UBS learning byte app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
+Uses azure portal endpoints for the uploaded videos
+Shows this uploaded videos in the angular app
+Count the views of the videos
+Shows recommended videos depending on the videos seen by the user
 
 ## Development server
 
